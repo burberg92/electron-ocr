@@ -1,0 +1,2 @@
+# electron-ocr-app
+ electron
